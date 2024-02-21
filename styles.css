@@ -1,6 +1,12 @@
+html,
+body {
+    margin: 0;
+    font-family: 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 :root {
-    --primary: #d8ddea;
-    --grey: #2a2929;
+    --primary: #dedfe3;
+    --grey: #373535;
 }
 
 .navTitle{
